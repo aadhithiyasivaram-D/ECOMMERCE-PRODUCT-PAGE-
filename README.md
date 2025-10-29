@@ -16,7 +16,7 @@ A modern, responsive, and animated portfolio website built to showcase my skills
 
 🚀 Live Demo
 
-🔗 View Portfolio Website https://vercel.com/harisankar-37s-projects/e-commerce
+🔗 View Portfolio Website https://vercel.com/aadhithiyasivaram-ds-projects/ecommerce-product-page
 
 🧠 About the Project
 
